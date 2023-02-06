@@ -10,7 +10,7 @@ No final do teste, envie no e-mail que você recebeu sobre a vaga, a URL do seu 
 
 Desenvolva um algoritmo que execute operações de autenticação e depois, de uma transferência bancária obedecendo os seguintes critérios: 
 
-1. A base de dados local deve conter usuários emissores e receptores de uma transferência; 
+1. A base de dados local deve conter usuários emissores e receptores de uma transferência, seguindo o modelo; 
 2. A senha de autenticação deve conter 8 dígitos, caracteres especiais, letras maiúsculas e minúsculas;
 3. O usuário precisará estar autenticado para realizar uma transferência; 
 4. Toda transferência deverá ser feita entre um emissor e um receptor;
