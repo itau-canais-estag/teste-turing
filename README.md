@@ -2,11 +2,11 @@
 
 ![alt text](https://static.vecteezy.com/system/resources/previews/003/326/613/non_2x/software-engineering-concept-for-website-and-mobile-site-vector.jpg)
 
-Olá! Para seguirmos com o nosso processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
+Olá! Para seguirmos com o processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-Primeiro, faça um fork desse repositório e adicione no seu github pessoal, clicando nesse link -> https://github.com/itau-canais-estag/teste-estag-canais/fork
-
-No final do teste, envie no e-mail que você recebeu sobre a vaga, a URL do seu repositório! 
+- Crie um repositório privado no GITHUB;
+- Após finalizar o desenvolvimento e os testes adicione o usuário <IvanCost> ao seu repositório;
+- Se o repositório estiver publico será automaticamente desqualificado;
 
 Desenvolva um algoritmo que execute operações de autenticação e depois, de uma transferência bancária obedecendo os seguintes critérios: 
 
