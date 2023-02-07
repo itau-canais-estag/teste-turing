@@ -5,7 +5,7 @@
 Olá! Para seguirmos com o processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
 - Crie um repositório privado no GITHUB;
-- Após finalizar o desenvolvimento e os testes adicione o usuário <IvanCost> ao seu repositório;
+- Após finalizar o desenvolvimento e os testes adicione o usuário **IvanCost** ao seu repositório;
 - Se o repositório estiver publico será automaticamente desqualificado;
 
 Desenvolva um algoritmo que execute operações de autenticação e depois, de uma transferência bancária obedecendo os seguintes critérios: 
