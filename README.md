@@ -4,7 +4,7 @@
 
 Olá! Para seguirmos com o processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-- Crie um repositório privado no GITHUB;
+- Crie um repositório privado no GITHUB com o nome **TesteTuringItau**;
 - Após finalizar o desenvolvimento e os testes adicione o usuário **IvanCost** ao seu repositório;
 - Se o repositório estiver publico será automaticamente desqualificado;
 
